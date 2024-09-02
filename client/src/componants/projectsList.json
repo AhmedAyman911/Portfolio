@@ -1,0 +1,30 @@
+    [{
+      "title": "Booking Clone",
+      "description": " Website streamlined booking process with a wide range of options, secure login, and admin controls. Made with ReactJs.",
+      "image": "https://sunscrapers.com/_nuxt/image/ee0bd1.webp",
+      "link": "https://github.com/AhmedAyman911/Bookify"
+    },
+    {
+      "title": "SwiftSeat",
+      "description": "User-friendly bus seat reservations Flutter appliction with route selection, secure login, and admin controls.",
+      "image": "https://media.licdn.com/dms/image/D5612AQHlrhhIQdGYqg/article-cover_image-shrink_600_2000/0/1693380105954?e=2147483647&v=beta&t=A1j0tuqIJPWjIn_A3oyFmCWXq0ljYauKmlC5IGDrQA0",
+      "link": "https://github.com/AhmedAyman911/"
+    },
+    {
+      "title": "Bright Smile",
+      "description": "Dental clinic booking system with simplified appointment scheduling and streamlined clinic operations.",
+      "image": "https://winnfamilydentistry.com/wp-content/uploads/2020/09/178570688_xl-2015-780x520.jpg",
+      "link": "https://github.com/AhmedAyman911/"
+    },
+    {
+      "title": "Brain Tumor Detection",
+      "description": "Developed and optimized CNN models for tumor detection with a user-friendly GUI for MRI classification.",
+      "image": "https://www.mdpi.com/applsci/applsci-12-07282/article_deploy/html/images/applsci-12-07282-g007-550.jpg",
+      "link": "https://github.com/AhmedAyman911/cs363"
+    },
+    {
+      "title": "IMDB Scraping",
+      "description": "Scraped IMDb TV show data by Python, formatted it, and analyzed trends with Power BI.",
+      "image": "https://i.ytimg.com/vi/y2IIopNlzgA/maxresdefault.jpg",
+      "link": "https://github.com/AhmedAyman911/IMDB_Scraping"
+    }]
