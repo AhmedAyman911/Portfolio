@@ -26,8 +26,8 @@ export default function About() {
 
                     <div className="flex-col">
                         <div className="flex justify-between py-1">
-                            <p className="text-purple-900 text-xl font-bold">JAVASCRIBT </p>
-                            <p className="text-purple-900 text-2xl font-bold">75%</p>
+                            <p className="text-purple-900 md:text-xl text-lg font-bold">JAVASCRIPT </p>
+                            <p className="text-purple-900 md:text-2xl text-lg font-bold">75%</p>
                         </div>
                         <div className="container h-4 border-0 rounded-xl bg-gray-200">
                             <div className="container h-4 w-4/5 border-0 rounded-xl bg-purple-900" />
@@ -36,8 +36,8 @@ export default function About() {
 
                     <div className="flex-col">
                         <div className="flex justify-between py-1">
-                            <p className="text-purple-900 text-xl font-bold">TAILWIND CSS </p>
-                            <p className="text-purple-900 text-2xl font-bold">70%</p>
+                            <p className="text-purple-900 md:text-xl text-lg font-bold">TAILWIND CSS </p>
+                            <p className="text-purple-900 md:text-2xl text-lg font-bold">70%</p>
                         </div>
                         <div className="container h-4 border-0 rounded-xl bg-gray-200">
                             <div className="container h-4 w-2/3 border-0 rounded-xl bg-purple-900" />
@@ -46,8 +46,8 @@ export default function About() {
 
                     <div className="flex-col">
                         <div className="flex justify-between py-1">
-                            <p className="text-purple-900 text-xl font-bold">Python </p>
-                            <p className="text-purple-900 text-2xl font-bold">70%</p>
+                            <p className="text-purple-900 md:text-xl text-lg font-bold">Python </p>
+                            <p className="text-purple-900 md:text-2xl text-lg font-bold">70%</p>
                         </div>
                         <div className="container h-4 border-0 rounded-xl bg-gray-200">
                             <div className="container h-4 w-2/3 border-0 rounded-xl bg-purple-900" />
