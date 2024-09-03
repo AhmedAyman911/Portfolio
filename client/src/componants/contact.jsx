@@ -20,7 +20,7 @@ export default function Contact() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        fetch('https://formspree.io/f/', {
+        fetch('https://formspree.io/f/mgvwqopr', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
