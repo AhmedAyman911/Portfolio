@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <div className="w-full flex flex-col relative py-8">
             <footer className="flex justify-around text-gray-500 py-4">
-                <p className="py-4"> &copy; 2024 Ahmed Ayman.</p>
+                <p className="py-4"> &copy; 2024 Ahmed Ayman</p>
                 <div className="flex flex-col items-center">
                     <p>Follow Me</p>
                     <div className="flex py-1 justify-center space-x-6 text-gray-500">

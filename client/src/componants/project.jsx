@@ -4,7 +4,7 @@ export default function Project() {
         window.open(url, '_blank');
       };
     return (
-        <div id="projects" className="w-full h-full flex flex-col relative items-center">
+        <div id="projects" className="w-full h-full flex flex-col relative items-center py-6">
             <p className="md:text-md text-sm text-purple-500 font-bold mb-4">PROJECTS</p>
             <p className="md:text-3xl text-xl text-black-900 font-bold mb-4">Latest Work</p>
             <p className="md:text-xl text-md text-gray-500 text-balance ml-20">Here are some recent projects I’ve been working on, including my own</p>
